@@ -14,9 +14,7 @@ class Dog
     
   end
 
-  def count
-    @@dogs.length
-  end
+  
   
   
 end
